@@ -1,4 +1,5 @@
-# 🔁 Types of Recursion: Head Recursion in Python
+# 🔁 Types of Recursion: Head Recursion in Python.
+
 
 ## 🎯 AIM:
 To write a Python program to demonstrate **Head Recursion** by finding and printing the sequence based on the sum of all digits (even or odd adjusted input).
